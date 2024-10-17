@@ -1762,6 +1762,7 @@ pre .javascript .function {
 .post-body img,
 .post-body video {
   margin-bottom: 20px;
+  width:90%;!important
 }
 .post-body .video-container {
   height: 0;
